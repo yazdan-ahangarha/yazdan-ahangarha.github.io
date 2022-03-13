@@ -1,0 +1,82 @@
+#box1{
+    width: 100%;
+    height: 800px;
+    background-image: url(../image/1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#box1color{
+    background-color: rgba( 0, 0, 0, 0.5);
+}
+.navigationa{
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: .2em;
+}
+#navigationul{
+    list-style-type: none;
+}
+#titlebox{
+    margin-top: 170px;
+}
+#thisismyrezume{
+    color: rgba(255,255,255,0.5);
+    letter-spacing: 3px;
+    margin-top: 20px;
+}
+.the-color{
+    color: #bac964;
+}
+.portfoliop{
+    font-size: 12px;
+}
+.rezumebox-background-color{
+    background-color: #333;
+}
+.rezumehover{
+    transition: all 0.4s ease-in-out;
+}
+.rezumehover:hover{
+    color: #bac964;
+}
+.the-background-color{
+    background-color: #bac964;
+}
+.button-hover{
+    transition: all 0.4 ease-in-out;
+}
+.button-hover:hover{
+    background-color: #b2c251;
+}
+.profilepics{
+    width: 50px;
+    height: 50px;
+}
+.icon-size{
+    width: 100px;
+    height: 100px;
+}
+.emailcolor{
+    color: #2c3e50;
+}
+@media all and (min-width:576px) and (max-width:767px){
+    
+}
+@media all and (min-width:768px) and (max-width:991px){
+    
+}
+@media all and (min-width:992px) and (max-width:1199){
+    .button-margin{
+        margin-left: 96px;
+    }
+    
+    
+}
+@media all and (min-width:1200px) and (max-width:1399px){
+    
+    
+}
+@media all and (min-width:1400px){
+
+}
